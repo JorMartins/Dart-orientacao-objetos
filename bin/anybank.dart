@@ -27,8 +27,7 @@ void main() {
 
   print(".");
 
-  contaChris.receber(50);
-  contaDenise.receber(50);
+  contaChris.enviar(4300);
+  contaDenise.enviar(4300);
 
 }
-
